@@ -6,7 +6,7 @@ node index.mjs
 ```
 
 ## Paste payload after initialize on FIDO Server
-https://localhost:8443
+https://localhost:8443 <br>
 ![Init payload](image.png)
 
 ## Authenticate
